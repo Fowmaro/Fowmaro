@@ -12,7 +12,7 @@ I am a computer science undergraduate, focusing on Backend Development
 
 ## Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/amr-elbana-02162638b
-* **Email:** [Your Professional Email]
+* **Email:** amr.elbana.dev@gmail.com
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
